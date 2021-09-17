@@ -1,0 +1,50 @@
+
+body {
+    background-color: MintCream;
+}
+
+#main {
+
+    color:rgb(36, 36, 100);
+    text-align: center;
+    font-family: "Lucida Console";
+}
+
+#searchInput {
+    width:250px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.catsTo {
+    color: snow;
+    text-align: center;
+}
+
+#catList {
+    text-align: center;
+    display: inline-flex;
+    list-style-type: none;
+    gap: 15px;
+    margin: 0 auto;
+}
+#catInfo {
+    background-color: rgb(90, 130, 167);
+    height: 1500px;
+    width: 1500px;
+    border-style: groove;
+    text-decoration-color: snow;
+    color:snow;
+    text-align: center;
+  
+}
+
+img {
+    position: absolute;
+    top: 43%;
+    bottom: 10%;
+    left: 10%;
+    right: 40%;
+    margin: 0 auto;
+    display: block;
+}
